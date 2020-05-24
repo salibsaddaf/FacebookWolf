@@ -1,7 +1,7 @@
 # FacebookWolf
 Make With <3 <3
 
-##Installation
+## Installation
 
 ```
 apt install git python2
@@ -10,13 +10,13 @@ cd FacebookWolf/
 pip2 install -r requirements.txt
 ```
 
-##Login Credential For This Tool
+## Login Credential For This Tool
 
 Username: wolf
 
 Password: salib
 
-##Contact Me
+## Contact Me
 
 Facebook: https://www.facebook.com/salib.saddaf.king
 
