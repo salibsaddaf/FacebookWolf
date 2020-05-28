@@ -53,7 +53,7 @@ def jalan(z):
 logo = """
 \033[1;96mTool Name \033[1;93m: \033[1;92mFacebookWolf
 \033[1;96mVersion   \033[1;93m: \033[1;92m1.9
-\033[1;96mAuthor   \033[1;93m: \033[1;92mSalib Saddaf
+\033[1;96mAuthor    \033[1;93m: \033[1;92mSalib Saddaf
 \033[1;96mFacebook  \033[1;93m: \033[1;92m@salib.saddaf.king
 \033[1;96mGithub    \033[1;93m: \033[1;92m@salibsaddaf
 \033[1;91m======================================="""
